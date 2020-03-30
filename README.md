@@ -13,6 +13,7 @@ to do :
 
 -   test design patterns without sewing machine
 -   import table with material tests
+-   printable version of patterns and instructions for diffusion to public in poor areas (feedback needed on specific awarness in such area)
 
 Pull requests are welcome if any amelioration is made on the patterns, technics and the project in general
 
@@ -21,3 +22,5 @@ It is also possible to directly ask on twitter : @ko97551819, answers will be in
 Feel free to add any patterns too, by pulling a request. 
 
 Translation is also welcome, in target languages of the country you live in. 
+
+Make a push for low-cost open-hardware, share the links. 
