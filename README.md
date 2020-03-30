@@ -13,7 +13,7 @@ More references :
 
 - Test design patterns without sewing machine
 - Import table with raw materials
-- Printable version of patterns and instructions for diffusion to public in poor areas (feedback needed on specific awareness in such area)
+- Printable version of patterns and instructions for diffusion to public in rural areas (feedback needed on specific awareness in such area)
 - Make a list of tools needed for sewing masks
 
 ## Contributing
