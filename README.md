@@ -12,8 +12,9 @@ More references :
 ## TODO
 
 - Test design patterns without sewing machine
-- Import table with material tests
+- Import table with raw materials
 - Printable version of patterns and instructions for diffusion to public in poor areas (feedback needed on specific awareness in such area)
+- Make a list of tools needed for sewing masks
 
 ## Contributing
 
