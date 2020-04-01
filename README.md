@@ -5,7 +5,7 @@ want to provide a set of design depending of the capabilities of the user.
 
 Homemade face mask are not to substitute to surgical masks, but they may help to prevent the propagation of a virus.
 
-## Selection of raw materials
+## Selection of raw materials/fabrics
 
 The selection of raw materials can be performed based on the filtration efficiency and hydrophobic capabilities.
 
@@ -42,12 +42,22 @@ The face mask uses rubber bands for hair.
 
 ### Design 2 - mask with sewing at nose/center level - standard patterns
 
+![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline2-1.jpeg)
+![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline2-2.jpeg)
+
+Two layers of cotton, breathability is ok. Pass a thin metal wire (used in gardening) all along the high edge, good support near the nose.
+
 ### Design 3 - mask folded fabrics without sewing at nose/center level
 
+![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline3-1.jpeg)
+![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline3-2.jpeg)
+![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline3-3.jpeg)
+
+Based on [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4), simpler than the previous ones to make but also requires an iron to make the folds and pliers to hold folds during sewing. Cover the face well but go up too much on the nose and let air pass up at the level of the wings of the nose.
 
 ## Contributing
 
-Pull requests are welcome if any amelioration is made on the patterns, technics and the project in general
+Pull requests are welcome if any amelioration is made on the patterns, techniques and the project in general
 
 It is also possible to directly ask on twitter : [@ko97551819](https://twitter.com/ko97551819), answers will be in the FAQ next.
 
@@ -62,6 +72,7 @@ Make a push for low-cost open-hardware, share the links.
 ### Face mask models
 
 - [Coronavirus : téléchargez le modèle de masque barrière](https://www.afnor.org/actualites/coronavirus-telechargez-le-modele-de-masque-barriere/)
+- [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4)
 
 ### Filtering and fabrics
 
