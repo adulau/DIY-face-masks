@@ -12,7 +12,8 @@ The selection of raw materials can be performed based on the filtration efficien
 ![Filtration Efficiency and Pressure Drop Across Materials Tested with Aerosols of Bacillus Atrophaeus and Bacteriophage MS2](https://raw.githubusercontent.com/adulau/DIY-face-masks/master/images/filtration-efficiency.png)
 
 We read different papers (such as [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/figure/Filtration-Efficiency-and-Pressure-Drop-Across-Materials-Tested-with-Aerosols-of-Bacillus_tbl1_258525804)) and we provide a table of the most efficient fabrics based on their filtering capabilities. The table might be updated based on
-new references or scientific papers.
+new references or scientific papers. If you want to reuse fabrics from old clothes, check the composition and take by priority fabrics listed higher in the table below. A lot of face mask
+design allows to have different layers of fabric.
 
 | Priority | Fabric type | Reason   |
 | -------- | -------- | -------- |
@@ -65,7 +66,11 @@ Feel free to add any patterns too, by pulling a request.
 
 Translation is also welcome, in target languages of the country you live in.
 
-Make a push for low-cost open-hardware, share the links.
+Support low-cost open hardware, share and clone the repository.
+
+## License
+
+All is licensed under the Creative Commons Zero v1.0 Universal
 
 ## References
 
