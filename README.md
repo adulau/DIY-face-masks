@@ -1,13 +1,9 @@
-# DIY-face-masks
+# DIY-face-masks (Work In Progress)
 
-A selection of easy reusable face masks to make
+A selection of easy reusable face masks to make yourself. We don't want to make a single design or perfect design but we
+want to provide a set of design depending of the capabilities of the user.
 
 Homemade face mask are not to substitute to surgical masks, but they may help to prevent the propagation of a virus.
-
-More references :
-
-- [Coronavirus : téléchargez le modèle de masque barrière](https://www.afnor.org/actualites/coronavirus-telechargez-le-modele-de-masque-barriere/)
-- [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
 
 ## Selection of raw materials
 
@@ -45,3 +41,13 @@ Feel free to add any patterns too, by pulling a request.
 Translation is also welcome, in target languages of the country you live in.
 
 Make a push for low-cost open-hardware, share the links.
+
+## References
+
+### Face mask models
+
+- [Coronavirus : téléchargez le modèle de masque barrière](https://www.afnor.org/actualites/coronavirus-telechargez-le-modele-de-masque-barriere/)
+
+### Filtering and fabrics
+
+- [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
