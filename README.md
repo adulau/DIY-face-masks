@@ -60,7 +60,13 @@ Based on [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https:/
 
 Pull requests are welcome if any amelioration is made on the patterns, techniques and the project in general
 
-It is also possible to directly ask on twitter : [@ko97551819](https://twitter.com/ko97551819), answers will be in the FAQ next.
+It is also possible to directly ask on twitter via DM:
+
+- All questions related to the project to [project coordinator @ko97551819](https://twitter.com/ko97551819), answers will be in the FAQ next.
+- All design and specific sewing questions to [sewing expert lead](https://twitter.com/c0n1c)
+- All fabrics and filtering efficiency questions [filtering expert lead](https://twitter.com/adulau)
+
+By the way, don't take the titles above seriously.
 
 Feel free to add any patterns or design too, by pulling a request.
 Translation is also welcome, in target languages of the country you live in.
