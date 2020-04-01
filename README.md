@@ -11,9 +11,21 @@ More references :
 
 ## Selection of raw materials
 
-The selection of raw materials can be performed based on the filtration efficiency.
+The selection of raw materials can be performed based on the filtration efficiency and hydrophobic capabilities.
 
 ![Filtration Efficiency and Pressure Drop Across Materials Tested with Aerosols of Bacillus Atrophaeus and Bacteriophage MS2](https://raw.githubusercontent.com/adulau/DIY-face-masks/master/images/filtration-efficiency.png)
+
+We read different papers (such as [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/figure/Filtration-Efficiency-and-Pressure-Drop-Across-Materials-Tested-with-Aerosols-of-Bacillus_tbl1_258525804)) and we provide a table of the most efficient fabrics based on their filtering capabilities. The table might be updated based on
+new references or scientific papers.
+
+| Priority | Fabric type | Reason   |
+| -------- | -------- | -------- |
+| 1 | Non-recycled polyester fabrics    | Hydrophobic     |
+| 2 | Recycled polyester fabrics | Hydrophobic (fiber less compact than virgin polyester) |
+| 3 | Mixed/blend cotton - Poly Cotton | Partially hydrophobic |
+| 4 | 100% cotton | Cheap and accessible but less efficient than the above listed |
+| 10 | Silk | Not recommended (too thin at fiber level) but still better than nothing |
+
 
 ## TODO
 
