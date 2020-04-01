@@ -62,11 +62,11 @@ Pull requests are welcome if any amelioration is made on the patterns, technique
 
 It is also possible to directly ask on twitter : [@ko97551819](https://twitter.com/ko97551819), answers will be in the FAQ next.
 
-Feel free to add any patterns too, by pulling a request.
-
+Feel free to add any patterns or design too, by pulling a request.
 Translation is also welcome, in target languages of the country you live in.
-
 Support low-cost open hardware, share and clone the repository.
+
+We also keep track of [failed design patterns](FAILED.md). If you want to share your failed designs, we are also interested.
 
 ## License
 
