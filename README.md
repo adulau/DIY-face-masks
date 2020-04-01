@@ -30,6 +30,21 @@ new references or scientific papers.
 - Printable version of patterns and instructions for diffusion to public in rural areas (feedback needed on specific awareness in such area)
 - Make a list of tools needed for sewing masks
 
+## Designs
+
+### Design 1 - mask with sewing at nose/center level - sewing pattern made from the hand
+
+![sewing pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/coco_patron_hand.jpg)
+
+![Face mask result from the pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_coco1.jpeg)
+
+The face mask uses rubber bands for hair.
+
+### Design 2 - mask with sewing at nose/center level - standard patterns
+
+### Design 3 - mask folded fabrics without sewing at nose/center level
+
+
 ## Contributing
 
 Pull requests are welcome if any amelioration is made on the patterns, technics and the project in general
