@@ -23,6 +23,14 @@ design allows to have different layers of fabric.
 | 4 | 100% cotton | Cheap and accessible but less efficient than the above listed |
 | 10 | Silk | Not recommended (too thin at fiber level) but still better than nothing |
 
+## How to use and clean your masks
+
+- Do not touch the mask and its fasteners while you are wearing it.
+- A mask must be specific to each person. Do not lend or exchange it.
+- Wash at 30 ° C after each use.
+- Dry the mask thoroughly including straps.
+
+There are also alternative cleaning solution such as hydrogen peroxide but these solutions might not be accessible to everyone.
 
 ## TODO
 
@@ -32,6 +40,8 @@ design allows to have different layers of fabric.
 - Make a list of tools needed for sewing masks
 
 ## Designs
+
+![](https://github.com/C00kie-/DIY-face-masks/raw/master/images/masques_finis.jpeg)
 
 ### Design 1 - mask with sewing at nose/center level - sewing pattern made from the hand
 
