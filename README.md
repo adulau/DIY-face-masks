@@ -1,9 +1,9 @@
 # DIY-face-masks (Work In Progress)
 
-A selection of easy reusable face masks to make yourself. We don't want to make a single design or perfect design but we
+A selection of reusable face masks to make yourself easily. We don't want to make a single design or perfect design but we
 want to provide a set of design depending of the capabilities of the user.
 
-Homemade face mask are not to substitute to surgical masks, but they may help to prevent the propagation of a virus.
+Homemade face mask are not to substitute to surgical, N95, FFP2/FFP3 masks, but they may help to prevent the propagation of a virus.
 
 ## Selection of raw materials/fabrics
 
