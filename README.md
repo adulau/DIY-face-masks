@@ -38,7 +38,7 @@ There are also alternative cleaning solution such as hydrogen peroxide but these
 - Printable version of patterns and instructions for diffusion to public in rural areas (feedback needed on specific awareness in such area)
 - Make a list of tools needed for sewing masks
 - Feedback based on tested masks and respirability capabilities
-- Locally availability and supply of fabrics from around the world 
+- Locally availability and supply of fabrics from around the world
 
 ## Designs
 
@@ -49,7 +49,7 @@ There are also alternative cleaning solution such as hydrogen peroxide but these
 Original design of masks by [Julie Foucre](https://www.instagram.com/julie_jfo/). The video below describes all the steps to build your own masks with
 you have some sewing experience and the required equipments.
 
-[![](https://github.com/C00kie-/DIY-face-masks/raw/master/images/video-masque.png)](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
+[![Masque COVID-19 by Julie Foucre](https://github.com/C00kie-/DIY-face-masks/raw/master/images/video-masque.png)](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
 
 ![sewing pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/julie_hand_pattern.jpeg)
 
@@ -61,8 +61,8 @@ The face mask uses rubber bands for hair.
 
 Based on [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4), simpler than the previous ones to make but also requires an iron to make the folds and pliers to hold folds during sewing. Cover the face well but go up too much on the nose and let air pass up at the level of the wings of the nose.
 
-![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-1.jpeg)
-![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-2.jpeg)
+![Mask folded fabrics prototype 3](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-1.jpeg)
+![Mask folded fabrics prototype 3](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-2.jpeg)
 
 ## Contributing
 
