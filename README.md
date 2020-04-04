@@ -28,7 +28,7 @@ design allows to have different layers of fabric.
 
 - Do not touch the mask and its fasteners while you are wearing it.
 - A mask must be specific to each person. Do not lend or exchange it.
-- Wash at 30 ° C after each use.
+- Wash at 60°C after each use.
 - Dry the mask thoroughly including straps.
 
 There are also alternative cleaning solution such as hydrogen peroxide but these solutions might not be accessible to everyone.
