@@ -95,6 +95,7 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 
 - [Coronavirus : téléchargez le modèle de masque barrière](https://www.afnor.org/actualites/coronavirus-telechargez-le-modele-de-masque-barriere/)
 - [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4)
+- [Model from an hospital in France](https://www.hospitalia.fr/attachment/1878139/)
 
 ### Simple methods to build masks without equipments
 
