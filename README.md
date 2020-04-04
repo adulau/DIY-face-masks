@@ -78,6 +78,7 @@ Feel free to [open issues](https://github.com/C00kie-/DIY-face-masks/issues) to 
 Feel free to add any patterns or design too, by pulling a request.
 Translation is also welcome, in target languages of the country you live in.
 Support low-cost open hardware, share and clone the repository.
+We list other open source initiatives, don't hesitate to share those with us.
 
 We also keep track of [failed design patterns](FAILED.md). If you want to share your failed designs, we are also interested.
 
@@ -94,6 +95,7 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 - [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4)
 - [Model from an hospital in France](https://www.hospitalia.fr/attachment/1878139/)
 - [Fu face mask by freesewing](https://freesewing.org/docs/patterns/fu/)
+- BE: [Make a face mask](https://makefacemasks.com/)
 
 ### Simple methods to build masks without equipments
 
