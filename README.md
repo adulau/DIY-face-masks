@@ -57,13 +57,6 @@ you have some sewing experience and the required equipments.
 
 The face mask uses rubber bands for hair.
 
-### Design 2 - mask with sewing at nose/center level - standard patterns
-
-![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline2-1.jpeg)
-![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline2-2.jpeg)
-
-Two layers of cotton, breathability is ok. Pass a thin metal wire (used in gardening) all along the high edge, good support near the nose.
-
 ### Design 3 - mask folded fabrics without sewing at nose/center level
 
 Based on [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4), simpler than the previous ones to make but also requires an iron to make the folds and pliers to hold folds during sewing. Cover the face well but go up too much on the nose and let air pass up at the level of the wings of the nose.
