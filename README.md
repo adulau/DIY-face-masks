@@ -20,7 +20,8 @@ design allows to have different layers of fabric.
 | 1 | Non-recycled polyester fabrics    | Hydrophobic     |
 | 2 | Recycled polyester fabrics | Hydrophobic (fiber less compact than virgin polyester) |
 | 3 | Mixed/blend cotton - Poly Cotton | Partially hydrophobic |
-| 4 | 100% cotton | Cheap and accessible but less efficient than the above listed |
+| 4 | Acetate - 100% | Some good filtering capabilities but depending of the fabric quality |
+| 5 | 100% cotton | Cheap and accessible but less efficient than the above listed |
 | 10 | Silk | Not recommended (too thin at fiber level) but still better than nothing |
 
 ## How to use and clean your masks
@@ -94,6 +95,10 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 
 - [Coronavirus : téléchargez le modèle de masque barrière](https://www.afnor.org/actualites/coronavirus-telechargez-le-modele-de-masque-barriere/)
 - [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4)
+
+### Simple methods to build masks without equipments
+
+- [EASY STEPS/ DIY FACE MASK in 40 seconds / No Sewing Machine / No manual Sewing](https://www.youtube.com/watch?v=CbRsb0T7Oz8)
 
 ### Filtering and fabrics
 
