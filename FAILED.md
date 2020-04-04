@@ -1,6 +1,7 @@
 # Failed designs
 
-We keep track of the failed designs to help other to avoid similar mistakes and learn what didn't work.
+We keep track of the failed designs to help other to avoid similar mistakes and learn what didn't work. The good designed are on
+the [main page](https://adulau.github.io/DIY-face-masks/).
 
 ## FAIL 1
 
