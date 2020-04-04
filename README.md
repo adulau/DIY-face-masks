@@ -42,7 +42,7 @@ There are also alternative cleaning solution such as hydrogen peroxide but these
 
 ## Designs
 
-![](https://github.com/C00kie-/DIY-face-masks/raw/master/images/masques_finis.jpeg)
+![](https://github.com/C00kie-/DIY-face-masks/raw/master/images/demo_masks.jpeg)
 
 ### Design 1 - mask with sewing at nose/center level - sewing pattern made from the hand
 
@@ -51,9 +51,9 @@ you have some sewing experience and the required equipments.
 
 [![](https://github.com/C00kie-/DIY-face-masks/raw/master/images/video-masque.png)](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
 
-![sewing pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/coco_patron_hand.jpg)
+![sewing pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/julie_hand_pattern.jpeg)
 
-![Face mask result from the pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_coco1.jpeg)
+![Face mask result from the pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/patterns/prototype_julie1.jpeg)
 
 The face mask uses rubber bands for hair.
 
@@ -61,8 +61,8 @@ The face mask uses rubber bands for hair.
 
 Based on [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4), simpler than the previous ones to make but also requires an iron to make the folds and pliers to hold folds during sewing. Cover the face well but go up too much on the nose and let air pass up at the level of the wings of the nose.
 
-![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline3-1.jpeg)
-![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline3-2.jpeg)
+![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-1.jpeg)
+![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-2.jpeg)
 
 ## Contributing
 
