@@ -66,11 +66,10 @@ Two layers of cotton, breathability is ok. Pass a thin metal wire (used in garde
 
 ### Design 3 - mask folded fabrics without sewing at nose/center level
 
+Based on [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4), simpler than the previous ones to make but also requires an iron to make the folds and pliers to hold folds during sewing. Cover the face well but go up too much on the nose and let air pass up at the level of the wings of the nose.
+
 ![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline3-1.jpeg)
 ![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline3-2.jpeg)
-![](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_pauline3-3.jpeg)
-
-Based on [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4), simpler than the previous ones to make but also requires an iron to make the folds and pliers to hold folds during sewing. Cover the face well but go up too much on the nose and let air pass up at the level of the wings of the nose.
 
 ## Contributing
 
@@ -97,6 +96,7 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 
 ### Face mask models
 
+- [Masque COVID-19 by Julie Foucre](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
 - [Coronavirus : téléchargez le modèle de masque barrière](https://www.afnor.org/actualites/coronavirus-telechargez-le-modele-de-masque-barriere/)
 - [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4)
 - [Model from an hospital in France](https://www.hospitalia.fr/attachment/1878139/)
