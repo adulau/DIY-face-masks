@@ -46,6 +46,11 @@ There are also alternative cleaning solution such as hydrogen peroxide but these
 
 ### Design 1 - mask with sewing at nose/center level - sewing pattern made from the hand
 
+Original design of masks by [Julie Foucre](https://www.instagram.com/julie_jfo/). The video below describes all the steps to build your own masks with
+you have some sewing experience and the required equipments.
+
+[![](https://github.com/C00kie-/DIY-face-masks/raw/master/images/video-masque.png)](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
+
 ![sewing pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/coco_patron_hand.jpg)
 
 ![Face mask result from the pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/prototype_coco1.jpeg)
@@ -73,11 +78,10 @@ Pull requests are welcome if any amelioration is made on the patterns, technique
 
 It is also possible to directly ask on twitter via DM:
 
-- All questions related to the project to [project coordinator @ko97551819](https://twitter.com/ko97551819), answers will be in the FAQ next.
-- All design and specific sewing questions to [sewing expert lead](https://twitter.com/c0n1c)
-- All fabrics and filtering efficiency questions [filtering expert lead](https://twitter.com/adulau)
+- All design and specific sewing questions to [Julie Foucre](https://www.instagram.com/julie_jfo/)
+- If you know additional scientific references regarding fabrics or about filtering efficiency. Don't hesitate to DM [adulau](https://twitter.com/adulau)
 
-By the way, don't take the titles above seriously.
+Feel free to [open issues](https://github.com/C00kie-/DIY-face-masks/issues) to ask questions or add more references.
 
 Feel free to add any patterns or design too, by pulling a request.
 Translation is also welcome, in target languages of the country you live in.
