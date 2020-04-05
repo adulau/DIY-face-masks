@@ -56,7 +56,7 @@ you have some sewing experience and the required equipments.
 
 ![sewing pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/julie_hand_pattern.jpeg)
 
-![Face mask result from the pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/prototypes/patterns/prototype_julie1.jpeg)
+![Face mask result from the pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_julie1.jpeg)
 
 The face mask uses rubber bands for hair.
 
