@@ -94,11 +94,13 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 ### The effectiveness of wearing mask in general public
 
 - EN: [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
+- COVID-19: Cloth Masks & Community Protection (https://www.bmj.com/content/368/bmj.m1141/rr-1)
 - FR: [Avis d'experts relatifs à la stratégie de constitution d'un stock de contre-mesures médicales face à une pandémie grippale](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/grippe/documents/avis/avis-d-experts-relatifs-a-la-strategie-de-constitution-d-un-stock-de-contre-mesures-medicales-face-a-une-pandemie-grippale)
 
 ### Face mask models
 
 - [Masque COVID-19 by Julie Foucre](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
+- [Simple No Pleat DIY Cloth Mask Tutorial for Beginners (Includes a Sewing 101)] {https://medium.com/@ong_yu_yang/diy-cloth-mask-tutorial-9ec8c1eacc95?sk=c7f99c58305cd8f56f0ebba4751d953d}
 - [Coronavirus : téléchargez le modèle de masque barrière](https://www.afnor.org/actualites/coronavirus-telechargez-le-modele-de-masque-barriere/)
 - [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4)
 - [Model from an hospital in France](https://www.hospitalia.fr/attachment/1878139/)
