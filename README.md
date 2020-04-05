@@ -27,9 +27,12 @@ design allows to have different layers of fabric.
 ## How to use and clean your masks
 
 - Do not touch the mask and its fasteners while you are wearing it.
+- While fastening your mask, only touch the elastics or the borders.
 - A mask must be specific to each person. Do not lend or exchange it.
+- The mask must cover nose and mouth (respiratory tracts). 
 - Wash at 60°C after each use.
 - Dry the mask thoroughly including straps.
+- Keep it in a dry place and not in contact with other clothes.
 
 There are also alternative cleaning solution such as hydrogen peroxide but these solutions might not be accessible to everyone.
 
@@ -104,3 +107,4 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 ### Filtering and fabrics
 
 - [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
+- [Air flow with and without a mask](https://twitter.com/i/status/1246027215780941825)
