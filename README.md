@@ -114,3 +114,4 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 
 - [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
 - [Air flow with and without a mask](https://twitter.com/i/status/1246027215780941825)
+- [High efficiency airfilters (EPA, HEPA and ULPA) - BS EN1822-1:2009](http://www.gttlab.com/uploads/soft/161025/EN1822-1-2009Highefficiencyairfilters(EPA,HEPAandULPA)Part1Classification,performance.pdf)
