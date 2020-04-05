@@ -93,7 +93,8 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 
 ### The effectiveness of wearing mask in general public
 
-- [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
+- EN: [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
+- FR: [Avis d'experts relatifs à la stratégie de constitution d'un stock de contre-mesures médicales face à une pandémie grippale](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/grippe/documents/avis/avis-d-experts-relatifs-a-la-strategie-de-constitution-d-un-stock-de-contre-mesures-medicales-face-a-une-pandemie-grippale)
 
 ### Face mask models
 
