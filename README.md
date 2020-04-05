@@ -104,6 +104,7 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 - [Model from an hospital in France](https://www.hospitalia.fr/attachment/1878139/)
 - [Fu face mask by freesewing](https://freesewing.org/docs/patterns/fu/)
 - BE: [Make a face mask](https://makefacemasks.com/)
+- FR: [Stop postillons](http://stop-postillons.fr/)
 
 ### Simple methods to build masks without equipments
 
