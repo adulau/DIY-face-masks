@@ -91,6 +91,10 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 
 ## References
 
+### The effectiveness of wearing mask in general public
+
+- [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
+
 ### Face mask models
 
 - [Masque COVID-19 by Julie Foucre](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
