@@ -109,6 +109,10 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 - FR: [Stop postillons](http://stop-postillons.fr/)
 - US: [Use of Cloth Face Coverings to Help Slow the Spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
 
+### Straps to support mask rubber bands
+
+- [Surgical Mask Strap Remix](https://www.thingiverse.com/thing:4249113) - Requires a 3D-Printer
+
 ### Simple methods to build masks without equipments
 
 - [EASY STEPS/ DIY FACE MASK in 40 seconds / No Sewing Machine / No manual Sewing](https://www.youtube.com/watch?v=CbRsb0T7Oz8)
