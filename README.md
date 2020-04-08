@@ -64,6 +64,8 @@ The face mask uses rubber bands for hair.
 
 Based on [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4), simpler than the previous ones to make but also requires an iron to make the folds and pliers to hold folds during sewing. Cover the face well but go up too much on the nose and let air pass up at the level of the wings of the nose.
 
+![Pattern for mask prototype 3](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/cookie-patron3.pdf)
+
 ![Mask folded fabrics prototype 3](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-1.jpeg)
 ![Mask folded fabrics prototype 3](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-2.jpeg)
 
