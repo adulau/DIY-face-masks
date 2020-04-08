@@ -1,6 +1,6 @@
 # DIY-face-masks (Work In Progress)
 
-### [French version](https://github.com/C00kie-/DIY-face-masks/blob/master/README-French.md)
+### [French version](/DIY-face-masks/README-French)
 
 A selection of reusable face masks to make yourself easily. We don't want to make a single design or perfect design but we
 want to provide a set of design depending of the capabilities of the user.
