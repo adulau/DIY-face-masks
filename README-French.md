@@ -46,7 +46,7 @@ Il existe également des solutions de nettoyage alternatives telles que le perox
 
 Conception originale des masques par Julie Foucre . La vidéo ci-dessous décrit toutes les étapes de construction de vos propres masques avec une certaine expérience de couture et les équipements nécessaires.
 
-![[Masque COVID-19 par Julie Foucre](https://github.com/C00kie-/DIY-face-masks/raw/master/images/video-masque.png)](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
+[![Masque COVID-19 par Julie Foucre](https://github.com/C00kie-/DIY-face-masks/raw/master/images/video-masque.png)](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
 
 ![Patron de couture fait à la main](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/julie_hand_pattern.jpeg)
 
