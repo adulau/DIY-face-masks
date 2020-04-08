@@ -31,7 +31,7 @@ design allows to have different layers of fabric.
 - Do not touch the mask and its fasteners while you are wearing it.
 - While fastening your mask, only touch the elastics or the borders.
 - A mask must be specific to each person. Do not lend or exchange it.
-- The mask must cover nose and mouth (respiratory tracts). 
+- The mask must cover nose and mouth (respiratory tracts).
 - Wash at 60°C after each use.
 - Dry the mask thoroughly including straps.
 - Keep it in a dry place and not in contact with other clothes.
@@ -99,7 +99,8 @@ All is licensed under the Creative Commons Zero v1.0 Universal
 - EN: [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 - COVID-19: Cloth Masks & Community Protection (https://www.bmj.com/content/368/bmj.m1141/rr-1)
 - FR: [Avis d'experts relatifs à la stratégie de constitution d'un stock de contre-mesures médicales face à une pandémie grippale](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/grippe/documents/avis/avis-d-experts-relatifs-a-la-strategie-de-constitution-d-un-stock-de-contre-mesures-medicales-face-a-une-pandemie-grippale)
-- FR: [Port du masque : le gouvernement amorce un virage à 180 degrés] (https://www.lemonde.fr/politique/article/2020/04/06/port-du-masque-l-executif-amorce-un-virage-a-180-degres_6035698_823448.html)
+- FR: [Port du masque : le gouvernement amorce un virage à 180 degrés](https://www.lemonde.fr/politique/article/2020/04/06/port-du-masque-l-executif-amorce-un-virage-a-180-degres_6035698_823448.html)
+
 ### Face mask models
 
 - [Masque COVID-19 by Julie Foucre](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
