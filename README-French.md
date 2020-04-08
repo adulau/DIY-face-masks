@@ -14,12 +14,12 @@ Nous avons lu différents articles (tels que [Testing the Efficacy of Homemade M
 
 | Priorité |	Type de tissu |	Raison |
 | -------- | -------- | -------- |
-| 1 |	Tissus en polyester non recyclé 	Hydrophobe
-| 2 |	Tissus en polyester recyclé 	Hydrophobe (fibre moins compacte que le polyester vierge)
-| 3 |	Coton mélangé / mélangé - Poly Coton 	Partiellement hydrophobe
-| 4 | 	Acétate - 100% 	Quelques bonnes capacités de filtrage mais en fonction de la qualité du tissu
-| 5 | 	100% Coton 	Pas cher et accessible mais moins efficace que ce qui précède
-| 10 |	Soie 	Déconseillé (trop fin au niveau des fibres) mais toujours mieux que rien
+| 1 |	Tissus en polyester non recyclé | Hydrophobe |
+| 2 |	Tissus en polyester recyclé | Hydrophobe (fibre moins compacte que le polyester vierge) |
+| 3 |	Coton mélangé / mélangé - Poly Coton | Partiellement hydrophobe |
+| 4 | 	Acétate - 100% 	| Quelques bonnes capacités de filtrage mais en fonction de la qualité du tissu |
+| 5 | 	100% Coton 	| Pas cher et accessible mais moins efficace que ce qui précède |
+| 10 |	Soie 	| Déconseillé (trop fin au niveau des fibres) mais toujours mieux que rien |
 
 ## Comment utiliser et nettoyer vos masques
 
