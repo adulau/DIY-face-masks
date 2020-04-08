@@ -8,9 +8,9 @@ Les masques faciaux faits maison ne doivent pas remplacer les masques chirurgica
 
 La sélection des matières premières peut être effectuée en fonction de l'efficacité de filtration et des capacités hydrophobes.
 
-[Efficacité de filtration et chute de pression sur les matériaux testés avec des aérosols de Bacillus atrophaeus et de bactériophage MS2](https://raw.githubusercontent.com/adulau/DIY-face-masks/master/images/filtration-efficiency.png)
+![Efficacité de filtration et chute de pression sur les matériaux testés avec des aérosols de Bacillus atrophaeus et de bactériophage MS2](https://raw.githubusercontent.com/adulau/DIY-face-masks/master/images/filtration-efficiency.png)
 
-Nous avons lu différents articles (tels que [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?]((https://www.researchgate.net/figure/Filtration-Efficiency-and-Pressure-Drop-Across-Materials-Tested-with-Aerosols-of-Bacillus_tbl1_258525804) Et nous fournissons un tableau des tissus les plus efficaces en fonction de leurs capacités de filtrage. Le tableau peut être mis à jour en fonction de nouvelles références ou articles scientifiques. Si vous souhaitez réutiliser des tissus de vieux vêtements, vérifiez la composition et prenez par priorité les tissus répertoriés plus haut dans le tableau ci-dessous. De nombreux masques faciaux permettent d'avoir différentes couches de tissu.
+Nous avons lu différents articles (tels que [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/figure/Filtration-Efficiency-and-Pressure-Drop-Across-Materials-Tested-with-Aerosols-of-Bacillus_tbl1_258525804) Et nous fournissons un tableau des tissus les plus efficaces en fonction de leurs capacités de filtrage. Le tableau peut être mis à jour en fonction de nouvelles références ou articles scientifiques. Si vous souhaitez réutiliser des tissus de vieux vêtements, vérifiez la composition et prenez par priorité les tissus répertoriés plus haut dans le tableau ci-dessous. De nombreux masques faciaux permettent d'avoir différentes couches de tissu.
 
 | Priorité |	Type de tissu |	Raison |
 | -------- | -------- | -------- |
@@ -23,22 +23,22 @@ Nous avons lu différents articles (tels que [Testing the Efficacy of Homemade M
 
 ## Comment utiliser et nettoyer vos masques
 
-    - Ne touchez pas le masque et ses attaches lorsque vous le portez.
-    - Lors de la fixation de votre masque, ne touchez que les élastiques ou les bordures.
-    - Un masque doit être spécifique à chaque personne. Ne le prêtez pas et ne l'échangez pas.
-    - Le masque doit couvrir le nez et la bouche (voies respiratoires).
-    - Laver à 60 ° C après chaque utilisation.
-    - Sécher soigneusement le masque, y compris les sangles.
-    - Gardez-le dans un endroit sec et non en contact avec d'autres vêtements. 
+- Ne touchez pas le masque et ses attaches lorsque vous le portez.
+- Lors de la fixation de votre masque, ne touchez que les élastiques ou les bordures.
+- Un masque doit être spécifique à chaque personne. Ne le prêtez pas et ne l'échangez pas.
+- Le masque doit couvrir le nez et la bouche (voies respiratoires).
+- Laver à 60 ° C après chaque utilisation.
+- Sécher soigneusement le masque, y compris les sangles.
+- Gardez-le dans un endroit sec et non en contact avec d'autres vêtements.
 
 Il existe également des solutions de nettoyage alternatives telles que le peroxyde d'hydrogène, mais ces solutions peuvent ne pas être accessibles à tous.
 
-## TO DO 
+## TO DO
 
    - Version imprimable des modèles et des instructions pour la diffusion au public dans les zones rurales (rétroaction nécessaire sur la sensibilisation spécifique dans une telle zone)
    - Faites une liste des outils nécessaires pour coudre les masques
    - Commentaires basés sur les masques testés et les capacités de respirabilité
-   - Disponibilité et fourniture locales de tissus du monde entier 
+   - Disponibilité et fourniture locales de tissus du monde entier
 
 ## Patrons
 
@@ -46,11 +46,11 @@ Il existe également des solutions de nettoyage alternatives telles que le perox
 
 Conception originale des masques par Julie Foucre . La vidéo ci-dessous décrit toutes les étapes de construction de vos propres masques avec une certaine expérience de couture et les équipements nécessaires.
 
-[[Masque COVID-19 par Julie Foucre](https://github.com/C00kie-/DIY-face-masks/raw/master/images/video-masque.png)](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
+![[Masque COVID-19 par Julie Foucre](https://github.com/C00kie-/DIY-face-masks/raw/master/images/video-masque.png)](https://www.youtube.com/playlist?list=PLqa4HY-V5Q5lyBWA4AqbnE3Scpeb1iTBB)
 
-[Patron de couture fait à la main](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/julie_hand_pattern.jpeg)
+![Patron de couture fait à la main](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/julie_hand_pattern.jpeg)
 
-[Le masque facial résulte du motif fabriqué à la main](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_julie1.jpeg)
+![Le masque facial résulte du motif fabriqué à la main](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_julie1.jpeg)
 
 
 Utilisez des élastiques pour cheveux pour le masque.
@@ -59,8 +59,8 @@ Utilisez des élastiques pour cheveux pour le masque.
 
 Basé sur le tutoriel de couture [DIY Masque en tissu Covid-19 (avec poche filtrante)](https://www.youtube.com/watch?v=S9RWII2-5_4), plus simple que les précédents à faire, mais nécessite également un fer à repasser pour faire les plis et une pince pour tenir les plis pendant la couture. Il couvre bien le visage mais peut remonter trop sur le nez et laissez l'air passer au niveau des ailes du nez. Vous pouvez utiliser un petit clip en métal (comme pour fermer les sachets de pâtes) pour pincer légèrement le tissu sur les ailes du nez.
 
-[Masque tissu plié patron 3](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-1.jpeg)
-[Masque tissu plié patron 3](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-2.jpeg)
+![Masque tissu plié patron 3](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-1.jpeg)
+![Masque tissu plié patron 3](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_cookie_3-2.jpeg)
 
 ## Contribuer
 
