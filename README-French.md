@@ -1,5 +1,7 @@
 # Masques en tissu (Work In Progress)
 
+### [English version](/DIY-face-masks/)
+
 Nous vous présentons une sélection de masques réutilisables à réaliser soi-même. Nous proposons des patrons différents en fonction des capacités de chacun, et de son matériel.
 
 Les masques faciaux faits maison ne doivent pas remplacer les masques chirurgicaux N95, FFP2 / FFP3, mais ils peuvent aider à empêcher la propagation d'un virus.
